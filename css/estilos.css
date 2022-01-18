@@ -1,4 +1,5 @@
 body{
+    color:#333;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
@@ -6,12 +7,12 @@ body{
 }
 
 #cabecera {
-    background-color: #33A;
+    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngkit.com%2Fbigpic%2Fu2t4a9i1q8t4r5t4%2F&psig=AOvVaw2Xw2L9hC1IGq_qNopZrt5K&ust=1642604814341000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiIrfzJu_UCFQAAAAAdAAAAABAD') no-repeat center cover;
     color:white; 
     font-weight: bold;
     box-shadow: -2px 4px 25px 6px  black;
     margin:0 ;
-    padding:0.5em;
+    padding:0.5em 0 0.5em 2em;
 }
 
 #cabecera #tagline{
